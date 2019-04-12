@@ -1,3 +1,6 @@
+#Converter Celsius em Fahrenheint 
+#Converter Fahrenheint em Celsius
+
 def c_f(c):
     return (9.0 / 5) * c + 32
 
