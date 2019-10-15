@@ -5,3 +5,4 @@ O idioma é basicamente o mesmo, mas muitos detalhes, especialmente como
 objetos internos, como dicionários e strings, mudaram consideravelmente
 e muitos recursos obsoletos foram finalmente removidos. Além disso, a
 biblioteca padrão foi reorganizada em alguns lugares de destaque.
+Fonte(https://www.python.org/download/releases/3.0/)2019
